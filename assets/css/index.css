@@ -49,3 +49,15 @@ a {
   top: 4px;
   margin-right: 10px;
 }
+.layui-bg-black img {
+  width: 150px;
+  height: 60px;
+  box-sizing: border-box;
+  padding: 2px;
+}
+.layui-bg-black .userinfo img {
+  width: 60px;
+  height: 60px;
+  box-sizing: border-box;
+  padding: 2px;
+}
